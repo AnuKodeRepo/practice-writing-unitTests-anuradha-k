@@ -1,0 +1,16 @@
+{
+  "name": "shopping-cart",
+  "version": "1.0.0",
+  "description": "Shopping cart module with Jest tests",
+  "main": "cart.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
